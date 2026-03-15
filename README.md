@@ -1,21 +1,39 @@
-# Trabalho de Análise e Projeto de Sistemas
+# Trabalho de Análise e Projeto de Sistemas (APS)
 
-Este repositório reúne os exercícios que fiz para a disciplina de Análise e Projeto de Sistemas. O foco aqui foi pegar os enunciados das questões e criar os diagramas de classes (usando o StarUML) e fazer o código correspondente em Python.
+Este repositório contém o desenvolvimento dos 11 exercícios propostos na disciplina de **Análise e Projeto de Sistemas**. O objetivo foi aplicar conceitos de modelagem orientada a objetos, desde a criação de diagramas de classes (UML) até a implementação prática em Python.
 
-Basicamente, tentei organizar como as classes se conectam, pensando em como os dados devem ser guardados e como as coisas funcionam na prática.
+---
 
-## Como está organizado:
-- **pasta /codigos**: Aqui estão os arquivos .py com a lógica de cada questão.
-- **pasta /diagramas**: Aqui estão as imagens (PNG) dos diagramas de classes que desenhei.
+## 📂 Estrutura do Repositório
+Para facilitar a navegação, o projeto foi organizado da seguinte forma:
 
-## Sobre as questões:
+* **/codigos**: Contém os arquivos `.py` com a lógica implementada de cada questão.
+* **/diagramas**: Contém os arquivos `.png` com os diagramas de classes desenvolvidos no StarUML.
+* `PROMPTS.md`: Documentação com os prompts utilizados para auxiliar na geração dos códigos.
 
-- **Questão 01 a 08**: Modelagens iniciais focadas na estrutura básica de classes e atributos.
-- **Questão 09 (Coleção de CDs)**: Mostra como um CD se relaciona com músicas e músicos, usando associações.
-- **Questão 10 (Sala de Reunião)**: Foca em como controlar os horários e reservas.
-- **Questão 11 (Generalização)**: Aqui usei uma classe base para evitar repetir código nas outras.
+---
 
-### Exemplos dos diagramas:
+## 📋 Resumo das Questões
+Abaixo, um resumo do que foi modelado e implementado em cada etapa do trabalho:
+
+| Questão | Tema | Conceito Chave Aplicado |
+| :--- | :--- | :--- |
+| 01 | Conta de Luz | Atributos privados e métodos de cálculo |
+| 02 | Texto Saída | Configuração de estilo e interface visual |
+| 03 | Boneco | Movimentação em plano cartesiano |
+| 04 | Horário de Remédios | Associações e gestão de agendas |
+| 05 | Gastos Diários | Enumerações e relatórios |
+| 06 | Comanda Eletrônica | Composição de objetos |
+| 07 | Lista de Compras | Controle de estoque e cálculos |
+| 08 | Coleção de CDs | Estrutura básica de classes |
+| 09 | Coleção de CDs (Complexo) | Associações e Multiplicidade |
+| 10 | Sala de Reunião | Validação de data/hora e reservas |
+| 11 | Hierarquia Base | Herança e reuso de código |
+
+---
+
+## 🖼️ Destaques da Modelagem
+Abaixo, alguns exemplos dos diagramas desenvolvidos:
 
 **Questão 09 - Coleção de CDs**
 ![Diagrama da Questão 09](diagramas/questao_09.png)
@@ -23,17 +41,13 @@ Basicamente, tentei organizar como as classes se conectam, pensando em como os d
 **Questão 10 - Sala de Reunião**
 ![Diagrama da Questão 10](diagramas/questao_10.png)
 
-**Questão 11 - Herança (Base)**
+**Questão 11 - Hierarquia de Classes**
 ![Diagrama da Questão 11](diagramas/questao_11.png)
 
 ---
-*Estudante: Matheus de Jesus Santos Silva*
 
-*Disciplina: Análise e Projeto de Sistemas*
-
-*Professor: Ricardo Roberto de Lima*
-
-*Curso: Análise e Desenvolvimento de Sistemas - 2º período*
-
-
-
+## 👤 Identificação
+* **Estudante:** Matheus de Jesus Santos Silva
+* **Disciplina:** Análise e Projeto de Sistemas
+* **Professor:** Ricardo Roberto de Lima
+* **Curso:** Análise e Desenvolvimento de Sistemas - 2º período
