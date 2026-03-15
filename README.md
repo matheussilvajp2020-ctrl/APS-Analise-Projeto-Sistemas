@@ -1,18 +1,20 @@
 # Trabalho de Análise e Projeto de Sistemas (APS)
 
-Este repositório contém o desenvolvimento dos 11 exercícios propostos na disciplina de Análise e Projeto de Sistemas. O objetivo foi aplicar conceitos de modelagem orientada a objetos, desde a criação de diagramas de classes (UML) até a implementação prática em Python.
+Este repositório contém o desenvolvimento dos 11 exercícios propostos na disciplina de **Análise e Projeto de Sistemas**. O objetivo foi aplicar conceitos de modelagem orientada a objetos, desde a criação de diagramas de classes (UML) até a implementação prática em Python.
 
 ---
 
 ## Estrutura do Repositório
+Para facilitar a navegação, o projeto foi organizado da seguinte forma:
 
-* /codigos: Contém os arquivos .py com a lógica implementada de cada questão.
-* /diagramas: Contém os arquivos .png com os diagramas de classes desenvolvidos no StarUML.
-* PROMPTS.md: Documentação com os prompts utilizados para auxiliar na geração dos códigos.
+* **/codigos**: Contém os arquivos `.py` com a lógica implementada de cada questão.
+* **/diagramas**: Contém os arquivos `.png` com os diagramas de classes desenvolvidos no StarUML.
+* `PROMPTS.md`: Documentação com os prompts utilizados para auxiliar na geração dos códigos.
 
 ---
 
 ## Resumo das Questões
+Abaixo, um resumo do que foi modelado e implementado em cada etapa do trabalho:
 
 | Questão | Tema | Conceito Chave Aplicado |
 | :--- | :--- | :--- |
@@ -30,22 +32,22 @@ Este repositório contém o desenvolvimento dos 11 exercícios propostos na disc
 
 ---
 
-## Exemplos de Modelagem
+## Destaques da Modelagem
+Abaixo, alguns exemplos dos diagramas desenvolvidos:
 
-Questão 09 - Coleção de CDs
+**Questão 09 - Coleção de CDs**
 ![Diagrama da Questão 09](diagramas/questao_09.png)
 
-Questão 10 - Sala de Reunião
+**Questão 10 - Sala de Reunião**
 ![Diagrama da Questão 10](diagramas/questao_10.png)
 
-Questão 11 - Hierarquia de Classes
+**Questão 11 - Hierarquia de Classes**
 ![Diagrama da Questão 11](diagramas/questao_11.png)
 
 ---
 
 ## Identificação
-
-Estudante: Matheus de Jesus Santos Silva
-Disciplina: Análise e Projeto de Sistemas
-Professor: Ricardo Roberto de Lima
-Curso: Análise e Desenvolvimento de Sistemas - 2º período
+* **Estudante:** Matheus de Jesus Santos Silva
+* **Disciplina:** Análise e Projeto de Sistemas
+* **Professor:** Ricardo Roberto de Lima
+* **Curso:** Análise e Desenvolvimento de Sistemas - 2º período
